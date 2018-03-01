@@ -1,6 +1,7 @@
-*.cbp
-*.layout
 *.exe
 *.o
-*.txt
+*.layout
 *.depend
+*.cbp
+*.h
+*.txt
